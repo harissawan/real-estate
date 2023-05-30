@@ -1,0 +1,38 @@
+[
+  {
+    "name": "DHA",
+    "price": "47,043",
+    "detail": "Lahore DHA ",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Blue World City",
+    "price": "66,353",
+    "detail": "Blue World City Islamabad",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Eden Garden ",
+    "price": "35,853",
+    "detail": "East Canal Road Near Kashmir Pull Faisalabad",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Muslim Town",
+    "price": "47,043",
+    "detail": "Sargodha road Faislabad",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Motorway City",
+    "price": "66,353",
+    "detail": "Sargodha road Faislabad",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Citi Housing",
+    "price": "35,853",
+    "detail": "Sargodha road Faislabad",
+    "image": "./r3.png"
+  }
+]
